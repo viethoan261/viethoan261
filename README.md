@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there, some things about me 👋
+## Info
+# Nguyễn Việt Hoàn
+
+* Facebook: https://www.facebook.com/hoan.nguyenviet.549/
+* Phone: 0966712135
+* Email: nguyenviethoan26012001@gmail.com 
+## Hobbies
+
+* ⚽ Football
+* 🎮 Game
+* :musical_note: Music
 
 <!--
 **viethoan261/viethoan261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
