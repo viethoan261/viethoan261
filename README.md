@@ -1,5 +1,5 @@
 # Hi there, some things about me 👋
-## Info
+
 # Nguyễn Việt Hoàn
 
 * Facebook: https://www.facebook.com/hoan.nguyenviet.549/
