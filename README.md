@@ -1,11 +1,11 @@
 # Hi there, some things about me 👋
-
+<!--
 # Nguyễn Việt Hoàn
 
 * Facebook: [Nguyễn Việt Hoàn](https://www.facebook.com/hoan.nguyenviet.549/)
 * Phone: 0966712135
 * Email: hoannv261@gmail.com
-## Hobbies
+## Hobbies-->
 
 * ⚽ Football
 * 🎮 Game
