@@ -10,24 +10,6 @@
 
 I'm a passionate software developer with a strong foundation in Java backend development and modern web technologies. I love creating elegant solutions and transforming ideas into scalable applications.
 
-```javascript
-const hoan = {
-    pronouns: "he/him",
-    code: ["Java", "JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot", "Spring MVC", "JPA/Hibernate"],
-            js: ["Node.js", "Express"]
-        },
-        frontEnd: ["Vue.js", "React", "Angular"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "Jira", "Postman"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Design Patterns"]
-};
-```
-
 ## 📊 GitHub Stats
 
 <div align="center">
