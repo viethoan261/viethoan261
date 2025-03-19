@@ -35,7 +35,7 @@ const hoan = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=viethoan261" alt="GitHub Streak" />
+  <img src="https://github.com/users/viethoan261/contributions" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Skills & Tools
