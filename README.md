@@ -62,7 +62,7 @@ A modern portfolio website built with Vue.js and Vuetify
 
 ## 📈 GitHub Activity Graph
 
-[![Hoan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=viethoan261&theme=react-dark)](https://github.com/viethoan261)
+[![Hoan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viethoan261&theme=dracula)](https://github.com/viethoan261)
 
 ## 🤝 Connect with Me
 
