@@ -84,5 +84,5 @@ A modern portfolio website built with Vue.js and Vuetify
   <img src="https://komarev.com/ghpvc/?username=viethoan261&color=blueviolet" alt="Profile views" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=viethoan261&theme=tokyonight&border_radius=4" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=viethoan261" alt="GitHub Streak Stats"/>
 </div>
