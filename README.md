@@ -15,9 +15,7 @@ I'm a passionate software developer with a strong foundation in Java backend dev
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viethoan261&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=viethoan261&theme=tokyonight&border_radius=4" alt="GitHub Streaks" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=viethoan261&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
 ## 🛠️ Technical Skills
 
