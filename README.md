@@ -31,11 +31,11 @@ const hoan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viethoan261&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viethoan261&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Skills & Tools
@@ -60,7 +60,7 @@ A modern portfolio website built with Vue.js and Vuetify
 
 ## 📈 GitHub Activity Graph
 
-[![Hoan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![Hoan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=viethoan261&theme=react-dark)](https://github.com/viethoan261)
 
 ## 🤝 Connect with Me
 
@@ -78,5 +78,5 @@ A modern portfolio website built with Vue.js and Vuetify
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=viethoan261&color=blueviolet" alt="Profile views" />
 </div>
